@@ -1,11 +1,11 @@
 @keyframes moveInLeft {
   0% {
     opacity: 0;
-    transform: translateX(-100px);
+    transform: translateX(-10rem);
 
   }
   80%{
-    transform: translate(20px);
+    transform: translate(2rem);
   }
 
   100%{
@@ -17,7 +17,7 @@
 @keyframes subtitle {
   0%{
     opacity: 0;
-    transform: translateY(100px);
+    transform: translateY(10rem);
   }
   100%{
     opacity:1;
@@ -28,7 +28,7 @@
 @keyframes moveInBottom{
   0%{
     opacity: 0;
-    transform: translateY(30px);
+    transform: translateY(3rem);
   }
   100%{
     opacity:1;
